@@ -1,7 +1,7 @@
 # Validador de CPF 🤖
 Este algoritmo foi criado para estudos de programação.
 
-Envolvem: Function, list, list comprehension e generator function.
+Envolvem: Function, list, list comprehension e generator expression.
 
 Será atualizado constantemente, conforme meus aprendizados.
 
