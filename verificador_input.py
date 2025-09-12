@@ -1,7 +1,9 @@
 def recebe():
     cpf = input('Qual o cpf que quer verificar? ')
-    lista_cpf = list(cpf)
+    return cpf
 
+def valida_cpf(cpf):
+    lista_cpf = list(cpf)
     quantidade_de_ponto = lista_cpf.count('.')
     quantidade_de_traço = lista_cpf.count('-')
 
