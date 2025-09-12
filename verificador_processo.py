@@ -18,4 +18,4 @@ def processo(cpf_filtrado, verificadores):
     if penultimo == verificadores[0] and ultimo == verificadores[1]:
         return "CPF é válido!"
     else:
-        return "CPF inválido."
+        return "CPF inválido." 
